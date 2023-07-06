@@ -1,0 +1,10 @@
+.one{
+    
+    border: 1px solid black;
+    
+}
+.items{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:13px;
+}
